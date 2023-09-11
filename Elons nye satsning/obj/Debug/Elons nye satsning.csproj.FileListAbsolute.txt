@@ -1,0 +1,7 @@
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Elons nye satsning\bin\Debug\Elons nye satsning.exe.config
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Elons nye satsning\bin\Debug\Elons nye satsning.exe
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Elons nye satsning\bin\Debug\Elons nye satsning.pdb
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Elons nye satsning\obj\Debug\Elons nye satsning.csproj.AssemblyReference.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Elons nye satsning\obj\Debug\Elons nye satsning.csproj.CoreCompileInputs.cache
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Elons nye satsning\obj\Debug\Elons nye satsning.exe
+C:\Users\zbc23matlc\Desktop\Skole\H1\Objekt orienteret programering\Elons nye satsning\obj\Debug\Elons nye satsning.pdb
